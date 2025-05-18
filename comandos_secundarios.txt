@@ -6,3 +6,5 @@ segundo comando
 # comandos mais genéricos
 
 comandos estranhos
+
++ comandos
